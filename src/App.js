@@ -13,7 +13,7 @@ function App() {
       <div>
         <nav className="navbar navbar-expand navbar-dark bg-dark">
           <a href="/students" className="navbar-brand">
-            Student Management APP HuuTK V0.3
+            Student Management APP HuuTK V0.4 code deploy cicd
           </a>
           <div className="navbar-nav mr-auto">
             <li className="nav-item">
